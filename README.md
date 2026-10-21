@@ -1,5 +1,5 @@
 ### Automated Form Filling
-Testing on a RSVP bday form..
+Testing on an RSVP bday form..
 
 <br/>
 
@@ -7,7 +7,7 @@ Testing on a RSVP bday form..
   <img src="https://github.com/user-attachments/assets/8ac1a2a1-a97e-4b89-a0a8-05308d095361" width="600" alt="Simple automatic QA testing on Bday RSVP Form" />
 </p>
 <p align="center">
-  <em>Figure 1: Automated QA script executing test data inputs and form submission.</em>
+  <em> Automated QA script executing test data inputs and form submission.</em>
 </p>
 
 
