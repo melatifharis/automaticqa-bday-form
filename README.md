@@ -1,5 +1,7 @@
 # automaticqa-bday-form
 Simple automatic QA testing on Bday RSVP Form
+<img width="400" height="274" alt="Screen-Recording-2026-10-21-2233 (1)" src="https://github.com/user-attachments/assets/8ac1a2a1-a97e-4b89-a0a8-05308d095361" />
+
 
 # Test Plan
 Input test users into the appropriate text boxes, input 3 hard-coded data into g-form back-to-back til the end of data.
