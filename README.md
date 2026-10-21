@@ -1,6 +1,14 @@
-# automaticqa-bday-form
-Simple automatic QA testing on Bday RSVP Form
-!<img width="400" height="274" alt="Screen-Recording-2026-10-21-2233 (1)" src="https://github.com/user-attachments/assets/8ac1a2a1-a97e-4b89-a0a8-05308d095361" />
+### Automated Form Filling
+Testing on a RSVP bday form..
+
+<br/>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8ac1a2a1-a97e-4b89-a0a8-05308d095361" width="600" alt="Simple automatic QA testing on Bday RSVP Form" />
+</p>
+<p align="center">
+  <em>Figure 1: Automated QA script executing test data inputs and form submission.</em>
+</p>
 
 
 # Test Plan
